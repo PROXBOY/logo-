@@ -1,6 +1,6 @@
 # 🖤ℝ𝚒ℤ-ℕ𝚘𝔹𝚒 𝕃𝕆𝔾𝕆 𝔹𝕠𝕋🖤
 
-<img src="https://telegra.ph/file/00e1147e4cd2b1530e65f.jpgg" alt="RIZOEL USERBOT">
+<img src="https://telegra.ph/file/00e1147e4cd2b1530e65f.jpg" alt="RIZOEL USERBOT">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
