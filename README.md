@@ -22,5 +22,7 @@
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/Rizoeluserbotdeploy)
 
 # 𝕆𝕨𝕟𝕖𝕣𝕤:-
+```sh
  ☯︎ ʀɪᴢᴏᴇʟ ➪ <a href="https://github.com/MrRizoel" alt="MrRiZoeL"> <img src="https://img.shields.io/badge/MrRiZoeL-ffd343?logo=github" /></a>
  ☯︎ ɴᴏʙɪᴛᴀ ➪ <a href="https://github.com/desinobita" alt="DesiNoBita"> <img src="https://img.shields.io/badge/DesiNoBita-ffd343?logo=github" /></a>
+```
