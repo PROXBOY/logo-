@@ -1,0 +1,35 @@
+{
+  "name": "RIZ-NOBI - LoGoBoT",
+  "description": "LoGo bot Powered by RiZoeL & NoBita",
+  "logo": "https://telegra.ph/file/00e1147e4cd2b1530e65f.jpg",
+  "keywords": ["telegram"],
+  "repository": "https://github.com/MrRizoel/RiZ-NoBi-LoGo",
+  "stack": "container",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "FILL KER MADERCHOD",
+      "required": true
+    },
+    "BOT_NAME": {
+      "description": "FILL KER MADERCHOD.",
+      "required": true,
+      "value": ""
+    },
+    "API_ID": {
+      "description": "FILL KER MADERCHOD",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "FILL KER MADERCHOD",
+      "required": true
+    },
+     "OWNER_ID": {
+      "description": "FILL KER MADERCHOD.",
+      "required": true
+    },
+    "SUDO_USERS": {
+      "description": "FILL KER MADERCHOD.",
+      "required": true
+    }
+  }
+}
