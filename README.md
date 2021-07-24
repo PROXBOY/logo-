@@ -19,7 +19,7 @@
 
 ### ⚫ Deploy To Heroku ⚫
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/Rizoeluserbotdeploy)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/RiZ-NoBi-LoGo)
 
 
  # ☯︎ ʀɪᴢᴏᴇʟ ➪ <a href="https://github.com/MrRizoel" alt="MrRiZoeL"> <img src="https://img.shields.io/badge/MrRiZoeL-ffd343?logo=github" /></a>
